@@ -10,7 +10,7 @@
 
   var PROJECT_DIR = process.cwd();
   var DEPOT_TOOLS_REPO = 'https://chromium.googlesource.com/chromium/tools/depot_tools.git';
-  var LIB_WEBRTC_REPO = 'https://github.com/js-platform/libwebrtc.git';
+  var LIB_WEBRTC_REPO = 'https://github.com/ang-st/libwebrtc.git';
   var LIB_DIR = PROJECT_DIR + '/third_party';
   var DEPOT_TOOLS_DIR = LIB_DIR + '/depot_tools';
   var LIB_WEBRTC_DIR = LIB_DIR + '/libwebrtc';
